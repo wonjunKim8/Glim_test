@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  CProcess.cpp
+  DlgImage.cpp
+  gPrj.cpp
+  gPrjDlg.cpp
+C:\Users\lkjds\OneDrive\문서\GitHub\Glim_exam\mfcExam\mfcExam-main\gSolution\gPrj\gPrjDlg.cpp(238,9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\lkjds\OneDrive\문서\GitHub\Glim_exam\mfcExam\mfcExam-main\gSolution\gPrj\gPrjDlg.cpp(317,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lkjds\OneDrive\문서\GitHub\Glim_exam\mfcExam\mfcExam-main\gSolution\gPrj\gPrjDlg.cpp(318,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+gPrjDlg.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  gPrj.vcxproj -> C:\Users\lkjds\OneDrive\문서\GitHub\Glim_exam\mfcExam\mfcExam-main\gSolution\x64\Debug\gPrj.exe
